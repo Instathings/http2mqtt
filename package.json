@@ -1,0 +1,19 @@
+{
+  "name": "http2mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Instathings/http2mqtt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Instathings/http2mqtt/issues"
+  },
+  "homepage": "https://github.com/Instathings/http2mqtt#readme"
+}
