@@ -1,5 +1,0 @@
-info  2020-05-11 17:40:58: Logging to console and directory: '/Users/chiarabiancacci/Documents/Instathings/http2mqtt/data/log/2020-05-11.17-40-58' filename: log.txt
-info  2020-05-11 17:40:59: Starting http2mqtt version 1.0.0 (commit #35f909d)
-info  2020-05-11 17:40:59: Connecting to MQTT server at mqtt://localhost
-info  2020-05-11 17:40:59: Connected to MQTT server
-info  2020-05-11 17:41:00: Handler added instance deviceID
