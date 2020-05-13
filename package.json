@@ -26,7 +26,7 @@
     "eslint-plugin-import": "^2.20.2"
   },
   "dependencies": {
-    "@instathings/http-herdsman-converters": "file:../httpHerdsmanConverters",
+    "@instathings/http-herdsman-converters": "^1.0.0",
     "fast-deep-equal": "^3.1.1",
     "git-last-commit": "^1.0.0",
     "js-yaml": "^3.13.1",
