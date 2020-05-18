@@ -21,13 +21,16 @@ mqtt:
 
 Payload:
 - id: a unique string for you
-- ip_address: the IP address of your wifi device,
+- protocol: the protocol to use, choose between `http`/`https`
+- hostname: the hostname you want to connect to. It can be either an IP address or a domain name.
+- port: the port to connect
 - model: the model of your wifi device
 
 ```
 {
     id: 'uniqueStringId',
-    ip_address: 192.168.1.140
+    protocol: 'http'
+    hostname: 'host.com'
     model: shplg-s
 }
 ```
