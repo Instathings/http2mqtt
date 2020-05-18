@@ -49,3 +49,7 @@ This payload must be sent as a string not as a JSON object.
 #### http2mqtt/:id
 
 You can subscribe to this topic in order to receive data from the device.
+
+## Discussion
+
+* Discuss HTTP2MQTT on our [forum](https://forum.instathings.io/)
