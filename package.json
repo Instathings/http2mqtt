@@ -31,7 +31,7 @@
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.15",
     "mkdir-recursive": "^0.4.0",
-    "moment": "^2.25.3",
+    "moment": "^2.29.4",
     "mqtt": "^4.0.1",
     "nodemon": "^2.0.3",
     "object-assign-deep": "^0.4.0",
